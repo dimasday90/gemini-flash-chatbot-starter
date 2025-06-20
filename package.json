@@ -1,0 +1,26 @@
+{
+  "name": "gemini-flash-chatbot-starter",
+  "version": "1.0.0",
+  "description": "This is a practice repository for creating chatbot with vanilla HTML, CSS, and JS, with additional NodeJS and express for implementing Gemini API, powered by Gemini AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimasday90/gemini-flash-chatbot-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimasday90/gemini-flash-chatbot-starter/issues"
+  },
+  "homepage": "https://github.com/dimasday90/gemini-flash-chatbot-starter#readme",
+  "dependencies": {
+    "@google/genai": "^1.5.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
